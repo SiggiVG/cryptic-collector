@@ -39,6 +39,11 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+.idea/*
+
+# Test
+app/src/test/*
+app/src/androidTest/*
 
 # Keystore files
 *.jks
